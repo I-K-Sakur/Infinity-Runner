@@ -16,6 +16,7 @@ public class SceneController : MonoBehaviour
     {
         RestartScene();
         PauseGame();
+        QuitGame();
     }
 
     public void RestartScene()
@@ -43,6 +44,14 @@ public class SceneController : MonoBehaviour
             Time.timeScale = isPaused ? 0f  : 1f;
             if (pauseObject != null)
                 pauseObject.SetActive(isPaused);
+        }
+    }
+
+    public void QuitGame()
+    {
+        if(Input.GetKeyDown(KeyCode.Q))
+        {
+            Application.Quit();
         }
     }
 }
