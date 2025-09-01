@@ -25,7 +25,6 @@ MonoBehaviour:
   - {fileID: 1847148240549790, guid: bfec9736616e0d74fa58c16f2e83dcdc, type: 3}
   - {fileID: 126218, guid: da59e5a3713884d4f9e9667c2befa1a4, type: 3}
   - {fileID: 194810, guid: 09082afec7b5e824ca611a0cc3264bcd, type: 3}
-  - {fileID: 178130, guid: 70bf34f6c25c948458f254e87188b00b, type: 3}
   - {fileID: 118600, guid: 68840c673a0b18e41a044ed077548d55, type: 3}
   numberOfObjects: 6
   startPosition: {x: 0, y: 0, z: -100}

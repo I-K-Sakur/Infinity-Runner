@@ -20,7 +20,7 @@ public class SceneController : MonoBehaviour
 
     public void RestartScene()
     {
-        if ( isDead  && Input.GetKeyDown(KeyCode.Space))
+        if ( isDead  && Input.GetKeyDown(KeyCode.R))
         {
             Time.timeScale = 1f; 
             SceneManager.LoadScene("GameScene");

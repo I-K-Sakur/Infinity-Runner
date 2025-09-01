@@ -83,7 +83,7 @@ public class PlayerStats : MonoBehaviour
                 playerIsDead = true;
                 hitSound.Play();
                 Debug.Log("Player is dead");
-                deathText.text = "You are Dead Press Space To Restart";
+                deathText.text = "Your Score is " +points+ " Press R To Restart";
                 Time.timeScale = 0f;
                 if (sceneController != null)
                 {
