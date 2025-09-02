@@ -1,6 +1,6 @@
 # [Infinity-Runner]
 
-Example: "A fast-paced endless runner game where you dodge obstacles and collect points."
+ "A fast-paced endless runner game where you dodge obstacles and collect points."
 
 ---
 
