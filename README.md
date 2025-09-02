@@ -1,6 +1,5 @@
 # [Infinity-Runner]
 
-A brief description of your game.  
 Example: "A fast-paced endless runner game where you dodge obstacles and collect points."
 
 ---
